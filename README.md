@@ -140,4 +140,10 @@ other regions to support balanced national growth
 
 - Make data-driven decisions
 
+👤 Author
 
+Junior Data Analyst
+
+Python (Polars) | SQL | visualization (Plotly)
+
+Actively seeking opportunities in Canada with employer sponsorship
