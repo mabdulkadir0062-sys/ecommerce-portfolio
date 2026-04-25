@@ -140,7 +140,7 @@
 
 - Make data-driven decisions
 
-👤 Author
+## 👤 Author
 
 Junior Data Analyst
 
