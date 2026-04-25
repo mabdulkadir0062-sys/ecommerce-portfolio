@@ -122,11 +122,11 @@
 
 ## ✅ Business Recommendations
 
-Focus on expanding Electronics and Accessories since they drive most revenue, while improving or repositioning the underperforming Office category. Strengthen top products
+Focus on expanding Electronics and Accessories since they drive most revenue, while improving or repositioning the underperforming Office category
 
-through bundling and cross-selling because no single “main product” dominates growth. In regions, prioritize scaling the West region while maintaining steady investment in 
+Strengthen top products through bundling and cross-selling because no single “main product” dominates growth
 
-other regions to support balanced national growth
+In regions, prioritize scaling the West region while  maintaining steady investment in other regions to support balanced national growth
 
 ## 🏁 Conclusion
 
