@@ -40,18 +40,18 @@
 
 1. Sales by Category
    
- . Bar chart showing total sales per category
+   . Bar chart showing total sales per category
 
- . Highlights which categories dominate revenue
+   . Highlights which categories dominate revenue
 
 2. Top 10 Products by Sales
    
- . Bar chart ranking best-performing products
+   . Bar chart ranking best-performing products
 
- . Includes profit insights via hover data
+   . Includes profit insights via hover data
 
-3. Sales by Region
+ 3. Sales by Region
 
- . Bubble size: Quantity sold
+   . Bubble size: Quantity sold
 
- . Helps identify high-demand regions
+   . Helps identify high-demand regions
