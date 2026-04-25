@@ -2,12 +2,12 @@
 
 ## 📊 Project Overview
 
-### This project analyzes an e-commerce sales dataset to uncover key business insights related to sales performance, profitability, and regional trends
+### This project analyzes an e-commerce sales dataset to uncover key business insights related to sales performance profitability and regional trends
 
 ## 💼 Business Problem
 
 
-### E-commerce businesses generate large volumes of transaction data, but without proper analysis, it’s difficult to answer questions like:
+### E-commerce businesses generate large volumes of transaction data but without proper analysis it’s difficult to answer questions like:
 
 . Which product categories drive the most revenue?
 
@@ -80,7 +80,7 @@
 
 📌 Key takeaway:
 
-. The business is heavily concentrated in Electronics and Accessories, which together account for the majority of performance
+. The business is heavily concentrated in Electronics and Accessories which together account for the majority of performance
 
 ➡ Risk: Over-reliance on 2 categories
 
@@ -88,7 +88,7 @@
 
 ### 2. Total Sales by Product
 
-. Top-performing products are mostly tech-based (Camera, Monitor, Laptop, Smartphone, etc.)
+. Top-performing products are mostly tech-based (Camera, Monitor, Laptop, Smartphone, etc)
 
 . Product performance is very balanced, with no single product dominating
 
@@ -96,9 +96,9 @@
 
 📌 Key takeaway:
 
-. Revenue is driven by a diverse set of strong products, not one superstar item
+. Revenue is driven by a diverse set of strong products not one superstar item
 
-➡ Strength: Sales are spread across many products, reducing reliance on a single item and lowering business risk
+➡ Strength: Sales are spread across many products reducing reliance on a single item and lowering business risk
 
 ➡ Limitation: No single standout is driving strong or accelerated growth
 
@@ -114,7 +114,7 @@
 
 📌 Key takeaway:
 
-. The business has a geographically balanced structure, with no weak region.
+. The business has a geographically balanced structure with no weak region
 
 ➡ Strength: Stable nationwide demand
 
@@ -122,7 +122,7 @@
 
 ## ✅ Business Recommendations
 
-.  on expanding Electronics and Accessories since they drive most revenue, while improving or repositioning the underperforming Office category
+.  on expanding Electronics and Accessories since they drive most revenue while improving or repositioning the underperforming Office category
 
 . Strengthen top products through bundling and cross-selling because no single “main product” dominates growth
 
@@ -132,7 +132,7 @@
 
 ### This project demonstrates how data analysis can move beyond reporting into decision support
 
-. By transforming raw data into structured insights, businesses can:
+. By transforming raw data into structured insights businesses can:
 
 - Identify growth opportunities
 
