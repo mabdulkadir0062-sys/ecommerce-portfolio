@@ -52,6 +52,6 @@
 
  3. Sales by Region
 
-   . Bubble size: Quantity sold
+    . Bubble size: Quantity sold
 
-   . Helps identify high-demand regions
+    . Helps identify high-demand regions
