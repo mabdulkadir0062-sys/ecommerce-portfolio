@@ -58,7 +58,7 @@
 
 ## 🧠 Skills Demonstrated
 
-###theese skills are :
+### theese skills are :
 
 . Data cleaning and transformation
 
