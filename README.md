@@ -55,3 +55,15 @@
     . Bubble size: Quantity sold
 
     . Helps identify high-demand regions
+
+## 🧠 Skills Demonstrated
+
+###theese skills are :
+
+. Data cleaning and transformation
+
+. Group-by aggregation analysis
+
+. Interactive data visualization
+
+. End-to-end analytics workflow
