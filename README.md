@@ -32,3 +32,26 @@
 . Converted "Order Date" from string to proper date format
 
 . Exported a cleaned version of the dataset for reproducibility
+
+
+## 📊 Visualizations
+
+### Interactive visualizations were created using Plotly:
+
+1. Sales by Category
+   
+. Bar chart showing total sales per category
+
+. Highlights which categories dominate revenue
+
+2. Top 10 Products by Sales
+   
+. Bar chart ranking best-performing products
+
+. Includes profit insights via hover data
+
+3. Sales by Region
+
+. Bubble size: Quantity sold
+
+. Helps identify high-demand regions
